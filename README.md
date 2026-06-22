@@ -1,0 +1,1 @@
+# headscale-ec2
